@@ -29,21 +29,26 @@ A aplicação permite adicionar, concluir, filtrar e remover tarefas, além de s
 
 ---
 
-📚 Aprendizados
+## 📚 Aprendizados
 
 Neste projeto foram praticados conceitos como:
 
-Manipulação do DOM
-Eventos em JavaScript
-Arrays e Objetos
-Funções
-LocalStorage
-Estilização com CSS
+- Manipulação do DOM
+- Eventos em JavaScript
+- Arrays e Objetos
+- Funções
+- LocalStorage
+- Estilização com CSS
 
-🔮 Melhorias Futuras
-Dark Mode
-Editar tarefas
-Responsividade avançada
-Categorias de tarefas
-Datas e horários
+---
+
+## 🔮 Melhorias Futuras
+
+- Dark Mode
+- Editar tarefas
+- Responsividade avançada
+- Categorias de tarefas
+- Datas e horários
+
+---
 
